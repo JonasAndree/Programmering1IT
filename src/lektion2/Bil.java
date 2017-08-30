@@ -7,7 +7,6 @@ public class Bil {
 	 */
 	public static void main(String[] args) {
 		int ANTALET_RATTAR = 4;
-		int ANTALET_RATTAR2 = 2;
 
 		System.out.println(ANTALET_RATTAR);
 
