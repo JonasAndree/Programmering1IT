@@ -15,6 +15,7 @@ public class Car {
 
 	/**
 	 * Konstruktor för Bil classen Setter färgen på bilen vid skapande.
+	 * @param selectedColor
 	 */
 	public Car(String selectedColor) {
 		color = selectedColor;
