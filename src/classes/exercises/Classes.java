@@ -17,7 +17,6 @@ public class Classes {
 		System.out.println("2. Create a Class and an Object");
 		System.out.println("In the same Folser as your main \"Application\" class, define a new class called \"Person\". You don't need to put anything in the class.");
 		System.out.println("Now, right below where you output \"Hello World\" in your main method, create an object from that class.");
-		System.out.println("Hint: although you can only have one public class in each file, you can create as many other classes as you want in there, just so long as you don't use the public keyword with them. Usually of course you put classes in their own files, but here we'll put our classes in the same file for convenience. ");
 		System.out.println("");
 		System.out.println("3. Basic Constructors");
 		System.out.println("Modify your \"Person\" class to add a constructor. Make the constructor output the text \"Constructor running!\".");
