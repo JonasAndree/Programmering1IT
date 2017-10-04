@@ -1,8 +1,13 @@
 package classes.exercises6;
 
 class Person {
-	private String name;
+	private String name = "Jonas";
 
+	
+	
+	
+	
+	
 	public Person() {
 	}
 
