@@ -1,7 +1,7 @@
 /**
  * 
  */
-package loops.exercises;
+package exercises.loops;
 
 /**
  * Loop exercise 1
@@ -62,24 +62,24 @@ package loops.exercises;
  *  	
  *  	if the user wrote a number below 18 the first time and the second time the user wrote 18 
  *  		or above write something like: 
- *  			“So you have changed your age?! Hmm I don’t believe you. YOU ARE NOT ALLOWED TO VOTE!!!.
+ *  			ï¿½So you have changed your age?! Hmm I donï¿½t believe you. YOU ARE NOT ALLOWED TO VOTE!!!.
  *  
  *		If the age was more than 18 the first time then the second time lower than 18. Tell the user:
- * 			I thought so! You can’t fool me my friend :D. YOU ARE NOT ALLOWED TO VOTE!!!.
+ * 			I thought so! You canï¿½t fool me my friend :D. YOU ARE NOT ALLOWED TO VOTE!!!.
  * 		
  * 		Else if the user enters above or equal to 18 replay with:
  * 			You are eligible to vote.
  * 
  * Loop exercise 5
  *  	Add a quitting question/option to the loop 1 in exercise 6.
- *			For example if the user replays with “esc” to the program the loop ends. 
+ *			For example if the user replays with ï¿½escï¿½ to the program the loop ends. 
  *
  * Loop exercise 6
  * 		Write a small story within a loop. 
- * 		Where you use different questions depending on what the integer variable “stage” is.
+ * 		Where you use different questions depending on what the integer variable ï¿½stageï¿½ is.
  * 		Example:
- * 			If the variable “stage” is 1 ask one question where there is more than one answer possible 
- * 			and depending on the users answer, the variable “stage” gets a new value and a new question is asked. 
+ * 			If the variable ï¿½stageï¿½ is 1 ask one question where there is more than one answer possible 
+ * 			and depending on the users answer, the variable ï¿½stageï¿½ gets a new value and a new question is asked. 
  *
  *
  * Loop exercise 7
