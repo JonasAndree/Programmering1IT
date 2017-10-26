@@ -16,7 +16,7 @@ public class KronaKlave {
 		
 		// Computers random selector.
 		Random randomGenerator = new Random();
-		int coinFlippValue = randomGenerator.nextInt(3);
+		boolean coinFlippValue = randomGenerator.nextBoolean();
 		
 		
 	//	System.out.println(coinFlippValue);
