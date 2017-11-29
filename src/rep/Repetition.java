@@ -21,6 +21,7 @@ public class Repetition {
 		char tecken = 'a';
 		
 		
+		
 		System.out.println("HEJ");
 		//Scanner scanner = new Scanner(System.in);
 		//String inputFromUser = scanner.nextLine();
