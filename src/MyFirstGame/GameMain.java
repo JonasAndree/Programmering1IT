@@ -40,6 +40,7 @@ public class GameMain {
 		JOptionPane.showMessageDialog(null, "LEVEL 2");	
 	}
 	public static void level3 () {
+		
 		JOptionPane.showMessageDialog(null, "LEVEL 3");
 		String[] options = new String[] { "Left.", "Right", "Up", "Back." };
 		int response = JOptionPane.showOptionDialog(null, "You have reached a dungeon \nWhat would you like to do?",
