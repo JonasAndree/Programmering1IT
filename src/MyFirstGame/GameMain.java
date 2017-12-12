@@ -33,19 +33,19 @@ public class GameMain {
 		} else {
 			level5();
 		}
-		
-		
 	}
+	
 	public static void level2 () {
 		JOptionPane.showMessageDialog(null, "LEVEL 2");	
 	}
-	public static void level3 () {
-		
+	
+	public static void level3 () {	
 		JOptionPane.showMessageDialog(null, "LEVEL 3");
 		String[] options = new String[] { "Left.", "Right", "Up", "Back." };
 		int response = JOptionPane.showOptionDialog(null, "You have reached a dungeon \nWhat would you like to do?",
 				"DUNGEON ENTRENCE!!!!!!", JOptionPane.DEFAULT_OPTION, JOptionPane.PLAIN_MESSAGE, null, options,
 				options[3]);
+		
 		if(response == 3) {
 			level1();
 		}
@@ -68,14 +68,5 @@ public class GameMain {
 				choices, // Array of choices
 				choices[3]); // Initial choice
 		
-		
-		
-		
-		
 	}
-
-	
-	
-	
-
 }
