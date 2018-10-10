@@ -35,6 +35,16 @@ public class GameMain {
 		}
 	}
 	
+	// public key boolean
+	
+	// har en funktion som representerar rum 1 
+	public static void houseEntrence() {
+		
+	}
+		//öjfd
+	
+	
+	
 	public static void level2 () {
 		JOptionPane.showMessageDialog(null, "LEVEL 2");	
 	}
